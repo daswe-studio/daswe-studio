@@ -1,4 +1,4 @@
-![DASWE Studio](assets/team-photo.jpg)
+![DASWE Studio](team-photo.jpg)
 ## DASWE Studio 🌻
 
 Dawn × Sunflower × Weave
