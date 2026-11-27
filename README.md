@@ -1,5 +1,4 @@
-## Hi there 👋
-DASWE Studio 🌻
+## DASWE Studio 🌻
 
 Dawn × Sunflower × Weave
 
